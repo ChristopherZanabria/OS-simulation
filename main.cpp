@@ -1,3 +1,11 @@
+/*
+Name: Christopher Zanabria
+Date: 4/13/2025
+CSCO 340 Spring 25 Term
+Professor Shostak
+Home Project - OS Simulation
+*/
+
 #include <iostream>
 #include "SimOS.h"
 
